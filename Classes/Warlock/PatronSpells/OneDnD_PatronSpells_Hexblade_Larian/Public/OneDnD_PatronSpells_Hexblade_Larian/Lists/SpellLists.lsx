@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DnD5R Hexblade Patron Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Warlock;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="692fd915-99d1-4a89-9600-7bfc674fa6a6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DnD5R Hexblade Patron Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blur;Target_Smite_Branding_Container;"/>
+                    <attribute id="UUID" type="guid" value="ed0d6509-c5ef-4efd-86d5-6a78eb54a461"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DnD5R Hexblade Patron Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blink;Target_ElementalWeapon;"/>
+                    <attribute id="UUID" type="guid" value="93f334d8-9fd8-47b1-9c60-35c41bb5c4c9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DnD5R Hexblade Patron Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalKiller;Target_StaggeringSmite;"/>
+                    <attribute id="UUID" type="guid" value="4151e87a-93b0-4ccf-b732-97dd3f654ee5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DnD5R Hexblade Patron Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Smite_Banishing_Container;Zone_ConeOfCold;"/>
+                    <attribute id="UUID" type="guid" value="71a33608-c4c6-4b8f-812a-b9ee488056c3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

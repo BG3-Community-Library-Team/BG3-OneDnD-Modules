@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="Warlock"/>
+                    <attribute id="Add" type="LSString" value="Projectile_EldritchBlast;Target_BoomingBlade_ClassSpell;Target_Prestidigitation;Target_Friends;Target_LightningLure;Target_Gust;Shout_Thunderclap;Target_MageHand;Target_ShapeWater;Target_MinorIllusion;Target_ChillTouch;Projectile_PoisonSpray;Target_BoomingBlade;Target_CreateBonfire;Target_Frostbite;Target_GreenFlameBlade;Target_MagicStone;Target_MindSliver;Shout_SwordBurst;Target_TollTheDead;Target_TrueStrike;Shout_BladeWard"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
+                    <attribute id="UUID" type="guid" value="6986821e-e98f-491f-ab72-18a7d47eb08b"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="Hexblade"/>
+                    <attribute id="Add" type="LSString" value="Target_Hex;Shout_ExpeditiousRetreat;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="2b9b50de-48e2-4b1c-b40d-6050aa85009a"/>
+                    <attribute id="UUID" type="guid" value="544dc6c0-c227-497c-b244-51223e16ffa6"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

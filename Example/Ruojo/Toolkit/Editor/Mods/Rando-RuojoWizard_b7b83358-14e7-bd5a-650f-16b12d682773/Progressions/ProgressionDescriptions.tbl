@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bfa22a59-fd65-4e35-ae0f-ac960c3b5fd2">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7f714747-e4cf-41c0-b0ac-4a9859ad4bc8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01971de9g664egd45cg1013gbbbef73a9064" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h72726d19g745bgeef8g8125g750cf3c18ac0" version="1" />
+        <field name="SelectorId" type="FixedStringTableFieldDefinition" value="CL_OneDnD_AbjurationSavant" />
+        <field name="ProgressionTableId" type="GuidTableFieldDefinition" value="9f0fd3ac-7520-45fa-9f7d-08b1ca6eacf3" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

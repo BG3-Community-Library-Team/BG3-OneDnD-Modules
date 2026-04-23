@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="b7b83358-14e7-bd5a-650f-16b12d682773"/>
+            <attribute id="Name" type="LSString" value="Rando-RuojoWizard"/>
+            <attribute id="UUID" type="LSString" value="4cfabb45-ff20-27ec-5a6c-48ffc3abd845"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h72726d19g745bgeef8g8125g750cf3c18ac0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h01971de9g664egd45cg1013gbbbef73a9064" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9f0fd3ac-7520-45fa-9f7d-08b1ca6eacf3"/>
+                    <attribute id="SelectorId" type="FixedString" value="CL_OneDnD_AbjurationSavant"/>
+                    <attribute id="UUID" type="guid" value="7f714747-e4cf-41c0-b0ac-4a9859ad4bc8"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

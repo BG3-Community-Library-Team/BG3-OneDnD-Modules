@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="f48af6fc-1f03-4123-aeb4-ac0911f7942f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="4fbbb733-99d4-4772-9fc4-44adeb99703d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="393f1b92-1eb9-4815-8e83-8d4e1e2de80f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="dd328bde-1a8f-450e-9e02-d18b7ac8fd72"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlanarBinding;Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="ea96bdea-0042-416d-a69b-b404665fda98"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_GlobeOfInvulnerability;Shout_Repulsion;Target_SpellWrack;Target_PlanarBinding;Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="1630f9be-6bfe-4bae-94be-aedd83abdb4d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_EnergyAegis;Target_GlobeOfInvulnerability;Shout_Repulsion;Target_SpellWrack;Target_PlanarBinding;Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="ce4635e0-7288-4002-9e2f-26cb78335ba7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 8"/>
+                    <attribute id="Spells" type="LSString" value="Target_EnergyAegis;Target_GlobeOfInvulnerability;Shout_Repulsion;Target_SpellWrack;Target_PlanarBinding;Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="34ee43a4-9d18-45d5-ada9-39a1d877c08c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Abjuration Savant SLevel 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_EnergyAegis;Target_GlobeOfInvulnerability;Shout_Repulsion;Target_SpellWrack;Target_PlanarBinding;Target_Banishment;Target_Counterspell;Target_IntellectFortress;Target_Nondetection;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_ArcaneLock;Target_ExtractPoison;Shout_FireProof;Target_ResistEnergy;Shout_Watrproof;Shout_AbsorbElements;Target_MageArmor;Shout_MageArmor2e;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Target_Snare"/>
+                    <attribute id="UUID" type="guid" value="d11853ee-0949-4af2-8a29-cd7ec22214d5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
